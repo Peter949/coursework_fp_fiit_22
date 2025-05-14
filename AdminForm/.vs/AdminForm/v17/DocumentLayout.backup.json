@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\controllers\\haircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\controllers\\haircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|c:\\users\\pekorino\\desktop\\telebot_kursovaya\\adminform\\adminform\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\models\\hairtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\models\\hairtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\adminform\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1318B2-4CE1-4C03-A355-6093DDD1C7C8}|AdminForm\\AdminForm.csproj|solutionrelative:adminform\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pekorino\\AppData\\Local\\Temp\\ni2ezb3e..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "AdminForm\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:01:13.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HairController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\HairController.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Controllers\\HairController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\HairController.cs",
+              "RelativeToolTip": "AdminForm\\Controllers\\HairController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:01:26.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Client.cs",
+              "RelativeToolTip": "AdminForm\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:16:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:04:04.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form2.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form2.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm\\Forms\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:52:29.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Note.cs",
+              "RelativeToolTip": "AdminForm\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:05:32.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Context.cs",
+              "RelativeToolTip": "AdminForm\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:41:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "AdminForm\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:01:50.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HairType.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\HairType.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Models\\HairType.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\HairType.cs",
+              "RelativeToolTip": "AdminForm\\Models\\HairType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:23:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form3.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form3.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm\\Forms\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:47:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form2.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form2.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form2.cs",
+              "RelativeToolTip": "AdminForm\\Forms\\Form2.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv3cAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:56:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form1.cs",
+              "RelativeToolTip": "AdminForm\\Forms\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:20:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form4.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form4.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm\\Forms\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:48:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form3.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form3.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form3.cs",
+              "RelativeToolTip": "AdminForm\\Forms\\Form3.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:36:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Models\\Master.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Models\\Master.cs",
+              "RelativeToolTip": "AdminForm\\Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:41:44.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form4.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Forms\\Form4.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Forms\\Form4.cs",
+              "RelativeToolTip": "AdminForm\\Forms\\Form4.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:50:35.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "AdminForm\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\AdminForm\\AdminForm\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "AdminForm\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:01:57.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ni2ezb3e..sql",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\AppData\\Local\\Temp\\ni2ezb3e..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ni2ezb3e..sql",
+              "ToolTip": "C:\\Users\\Pekorino\\AppData\\Local\\Temp\\ni2ezb3e..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ni2ezb3e..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-12T03:23:22.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

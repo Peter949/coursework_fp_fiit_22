@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\telegram_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|solutionrelative:telegram_bot\\telegram_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|solutionrelative:telegram_bot\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\resources.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952EE243-8515-4D57-A9A1-318DBD77A57C}|telegram_bot\\telegram_bot.pyproj|solutionrelative:telegram_bot\\resources.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "resources.json",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\resources.json",
+              "RelativeDocumentMoniker": "telegram_bot\\resources.json",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\resources.json",
+              "RelativeToolTip": "telegram_bot\\resources.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T04:14:39.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "token.txt",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\token.txt",
+              "RelativeDocumentMoniker": "telegram_bot\\token.txt",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\token.txt",
+              "RelativeToolTip": "telegram_bot\\token.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-24T10:05:52.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "telegram_bot.py",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\telegram_bot.py",
+              "RelativeDocumentMoniker": "telegram_bot\\telegram_bot.py",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot\\telegram_bot\\telegram_bot.py",
+              "RelativeToolTip": "telegram_bot\\telegram_bot.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-24T09:36:22.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

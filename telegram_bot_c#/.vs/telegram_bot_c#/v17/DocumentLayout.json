@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|c:\\users\\pekorino\\desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\controllers\\haircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\controllers\\haircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\models\\hairtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\models\\hairtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\migrations\\202505130825021_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\migrations\\202505130825021_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\resources\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\resources\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F2F3951-1261-467B-A0AA-101CE19664C2}|telegram_bot_c#\\telegram_bot_c#.csproj|solutionrelative:telegram_bot_c#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Note.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:28:32.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Program.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Program.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Program.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Program.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAADwv8QAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:40:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Context.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:28:22.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Client.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:25:55.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Models\\Master.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\Master.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:25:51.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:37:13.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:13:13.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\packages.config",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\packages.config",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\packages.config",
+              "RelativeToolTip": "telegram_bot_c#\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T04:10:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HairController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\HairController.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Controllers\\HairController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\HairController.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Controllers\\HairController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:23:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:24:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:17:14.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HairType.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\HairType.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Models\\HairType.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Models\\HairType.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Models\\HairType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:25:49.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202505130825021_first.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Migrations\\202505130825021_first.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Migrations\\202505130825021_first.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Migrations\\202505130825021_first.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Migrations\\202505130825021_first.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:26:32.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\App.config",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\App.config",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\App.config",
+              "RelativeToolTip": "telegram_bot_c#\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-18T06:19:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "telegram_bot_c#\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:55:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Token.txt",
+              "DocumentMoniker": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Resources\\Token.txt",
+              "RelativeDocumentMoniker": "telegram_bot_c#\\Resources\\Token.txt",
+              "ToolTip": "C:\\Users\\Pekorino\\Desktop\\telebot_kursovaya\\telegram_bot_c#\\telegram_bot_c#\\Resources\\Token.txt",
+              "RelativeToolTip": "telegram_bot_c#\\Resources\\Token.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-11T08:38:52.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
